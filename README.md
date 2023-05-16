@@ -5,7 +5,7 @@
 🎓 I am Ahmed Atif, a **Front End Web Developer** (specializing in **React Applications**).
 I also finished my Bachelor's degree in **Computer Systems Engineering** and graduated in mid 2022.
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, and **Micro-Frontend Architecture**. I started [**Freelancing**](https://mostaql.com/u/ahmedatif99) since 2021 and made a name for myself.
+👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, and **Micro-Frontend Architecture**. I started [**Freelancing**](https://mostaql.com/u/ahmedatif99) since 2020 and made a name for myself.
 
 💪 Outside the tech world, I also enjoy pushing myself to develop new skills. My hobbies range from **Fitness**, and **BodyBuilding** to some wacky ones like **writing with my left hand**.
 
