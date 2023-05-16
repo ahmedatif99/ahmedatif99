@@ -5,7 +5,7 @@
 🎓 I am Ahmed Atif, a **Front End Web Developer** (specializing in **React Applications**).
 I also finished my Bachelor's degree in **Computer Systems Engineering** and graduated in mid 2022.
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, and **Micro-Frontend Architecture**. I started [**Freelancing**](https://mostaql.com/u/ahmedatif99) recently and made a name for myself.
+👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, and **Micro-Frontend Architecture**. I started [**Freelancing**](https://mostaql.com/u/ahmedatif99) since 2021 and made a name for myself.
 
 💪 Outside the tech world, I also enjoy pushing myself to develop new skills. My hobbies range from **Fitness**, and **BodyBuilding** to some wacky ones like **writing with my left hand**.
 
@@ -13,6 +13,9 @@ I also finished my Bachelor's degree in **Computer Systems Engineering** and gra
 
 - ⏫ **Rising Talent** at _Mostaql_ (Nov 2020)
 - Contribute to the completion of the **Frontend UI** of the [**Selat for Business Solutions Company**](https://selat.com.sa/)
+- Starting as a front-end developer under training with Nibras and contributing to the construction of an Al-Aqsa TV site, using Next.JS [**AlAqsa TV**](https://alaqsa.nepras.ps/)
+- Working on a powercard store to sell Game Store balances and virtual cards, using NEXT.JS [**Power Card Still under development**] (https://power-card-tau.vercel.app/), [**Power Card**](https://admin.powercard-sa.com/)
+- Completing work on my Portfolio using React.Js and FramerMotion, to display my works and other things [**Portfolio**](https://ahmed-atif-portfolio.vercel.app/)
 
 ## 🛠️ Skills
 
@@ -73,3 +76,4 @@ I also finished my Bachelor's degree in **Computer Systems Engineering** and gra
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ahmedatif99)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ahmedahmed1919a@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedatif99/)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-19c44d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+970598187824)
