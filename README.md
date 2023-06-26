@@ -14,7 +14,7 @@ I also finished my Bachelor's degree in **Computer Systems Engineering** and gra
 - ⏫ **Rising Talent** at _Mostaql_ (Nov 2020)
 - Contribute to the completion of the **Frontend UI** of the [**Selat for Business Solutions Company**](https://selat.com.sa/)
 - Starting as a front-end developer under training with Nibras and contributing to the construction of an Al-Aqsa TV site, using Next.JS [**AlAqsa TV**](https://alaqsa.nepras.ps/)
-- Working on a powercard store to sell Game Store balances and virtual cards, using NEXT.JS [**Power Card Still under development**](https://power-card-store.vercel.app/), [**Power Card**](https://admin.powercard-sa.com/)
+- Working on a powercard store to sell Game Store balances and virtual cards, using NEXT.JS [**Power Card Still under development**](https://power-card-tau.vercel.app/), [**Power Card**](https://admin.powercard-sa.com/)
 - Completing work on my Portfolio using React.Js and FramerMotion, to display my works and other things [**Portfolio**](https://ahmed-atif-portfolio.vercel.app/)
 
 ## 🛠️ Skills
